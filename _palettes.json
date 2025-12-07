@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 2,
+    "palettes": {
+        "custom1": {
+            "id": "custom1",
+            "name": "cool",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#896F5D",
+                "#B78D66",
+                "#916C55",
+                "#FFF609",
+                "#F7D83B",
+                "#EEE8A5",
+                "#57575C",
+                "#363636",
+                "#969696",
+                "#C7FBFF",
+                "#FF5C5C",
+                "#990000",
+                "#AF4B4B",
+                "#8ADB8F"
+            ],
+            "custom": true
+        }
+    }
+}

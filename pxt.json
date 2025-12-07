@@ -1,0 +1,50 @@
+{
+    "name": "bananaful",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "animation": "*",
+        "sprite-scaling": "*",
+        "radio-broadcast": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#896F5D",
+        "#B78D66",
+        "#916C55",
+        "#FFF609",
+        "#F7D83B",
+        "#EEE8A5",
+        "#57575C",
+        "#363636",
+        "#969696",
+        "#C7FBFF",
+        "#FF5C5C",
+        "#990000",
+        "#AF4B4B",
+        "#8ADB8F"
+    ]
+}
